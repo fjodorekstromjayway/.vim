@@ -8,3 +8,6 @@ color mango
 set ruler
 set rulerformat=%55(%{strftime('%a\ %b\ %e\ %I:%M\ %p')}\ %5l,%-6(%c%V%)\ %P%)
 set nu
+set expandtab
+set shiftwidth=2
+set softtabstop=2

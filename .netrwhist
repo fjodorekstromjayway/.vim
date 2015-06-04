@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/home/fjodor/arbete/sony/lifelog-integrator/lifelog-connected-apps'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/fjodor/code/work/sony/lifelog-integrator/lifelog-connected-apps/lib/session'
+let g:netrw_dirhist_2='/home/fjodor/code/work/sony/lifelog-integrator/lifelog-connected-apps/lib'
+let g:netrw_dirhist_3='/home/fjodor/code/work/sony/lifelog-integrator/lifelog-connected-apps/lib/session'
+let g:netrw_dirhist_4='/home/fjodor/code/work/sony/lifelog-integrator/lifelog-connected-apps/lib'
