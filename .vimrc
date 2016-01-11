@@ -10,8 +10,6 @@ set scrolloff=3             " some lines around scroll for context
 
 " Cursor/Line
 set number
-set colorcolumn=80          " ruler at 80 chars width
-set cursorline              " highlight the current line
 
 " Status/History
 set history=200             " remember a lot of stuff
@@ -26,9 +24,6 @@ set autoread                   " auto-reload files changed on disk
 set updatecount=0              " disable swap files
 set wildmode=longest,list,full " :e completion mode
 
-" Vimdiff
-set diffopt=filler,vertical
-
 " Conceal (disabled by default)
 set conceallevel=0
 
@@ -40,7 +35,6 @@ let mapleader = ','
 
 execute pathogen#infect()
 " syntax highlighting
-set background=dark     " you can use `dark` or `light` as your background
 color mango
 " INDENTATION
 set cindent
